@@ -24,6 +24,4 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: run repo script
-      run: |
-        chomd +x ./hw.sh
-        ./hw.sh
+      run: /bin/bash ./hw.sh
