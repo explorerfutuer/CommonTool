@@ -1,3 +1,4 @@
 #!/bin/bash
-echo "Hello World"
-echo "Code World"
+echo "run unittest"
+echo "code coverage"
+echo "deploy"
